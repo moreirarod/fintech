@@ -1,0 +1,25 @@
+.card-header {
+  background-color: #8CB88E;
+}
+
+.card-footer {
+  background-color: #739D75;
+}
+
+.btn {
+  --bs-btn-bg: #AFDBB1;
+  --bs-btn-border-color: none;
+  --bs-btn-color: black;
+  --bs-btn-hover-bg: #739D75;
+}
+
+.btn-lg {
+  --bs-btn-bg: #AFDBB1;
+  --bs-btn-border-color: none;
+  --bs-btn-color: black;
+  --bs-btn-hover-bg: #739D75;
+}
+
+.body {
+  height: 100%;
+}
